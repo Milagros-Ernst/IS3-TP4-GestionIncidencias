@@ -1,1 +1,2 @@
 Este archivo representa cambios para el issue #1 (Registro e inicio de sesión).
+Realizamos el segundo commit para cerrar el issue.
