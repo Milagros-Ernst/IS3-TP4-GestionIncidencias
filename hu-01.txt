@@ -1,0 +1,1 @@
+Este archivo representa cambios para el issue #1 (Registro e inicio de sesión).
