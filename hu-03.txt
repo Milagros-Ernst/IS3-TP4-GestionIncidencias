@@ -1,0 +1,3 @@
+Este archivo representa cambios para el issue #4 (Acreditación de participantes en el evento).
+
+Realizamos el segundo commit para cerrar el issue.
