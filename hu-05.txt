@@ -1,1 +1,4 @@
 Este archivo representa cambios para el issue #6 (HU-05 Publicación de encuesta post-evento).
+
+
+Realizamos el segundo commit para cerrar el issue.
