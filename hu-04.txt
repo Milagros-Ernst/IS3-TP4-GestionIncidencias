@@ -1,0 +1,1 @@
+Este archivo representa cambios para el issue #5 (HU-04 Generación de certificados de participación)
