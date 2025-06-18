@@ -9,11 +9,9 @@ COPY requirements.txt .
 # Instala las dependencias
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copia el resto de los archivos de la aplicación al contenedor
-COPY . .
 
 # Expone el puerto en el que correrá la aplicación
 EXPOSE 8000
 
 # Comando para ejecutar la aplicación
-CMD ["fastapi", "dev", "app.py", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["uvicorn", "app:app", "--host", "0.0.0.0", "--port", "8000"]
